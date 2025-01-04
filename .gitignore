@@ -1,5 +1,5 @@
 main.pdf
-
+node_modules
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
