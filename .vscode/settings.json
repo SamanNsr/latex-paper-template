@@ -16,5 +16,8 @@
       "strings": true
     }
   },
-  "latex-workshop.bibtex-format.sort.enabled": true
+  "latex-workshop.bibtex-format.sort.enabled": true,
+  "[bibtex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+  }
 }
